@@ -1,0 +1,6 @@
+{
+  "name": "buyamongus",
+  "scripts": {
+    "react": "cd tantuni && npm run start && cd .."
+  }
+}
